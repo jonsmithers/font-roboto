@@ -1,0 +1,17 @@
+{
+  "name": "font-roboto",
+  "homepage": "https://github.com/jonsmithers/font-roboto",
+  "authors": [
+    "Jon Smithers <mail@jonsmithers.link>"
+  ],
+  "description": "Self-hosted roboto font equivalent for Polymer famework",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
